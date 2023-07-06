@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @furkannkaymazz
+#- 👋 Hi, I’m Furkan
 - 🌱 I’m currently learning **Python, SQL, PowerBI etc.**
 - 📫 How to reach me furkannkaymazz@gmail.com
 
