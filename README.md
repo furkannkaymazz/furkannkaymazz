@@ -3,6 +3,7 @@ Highly motivated industrial engineering student who is knowledgeable and curious
 - 🌱 I’m currently learning **Tableau, PowerBI etc.**
 - **Strong Languages:** Python, SQL
 - 📫 How to reach me furkannkaymazz@gmail.com
+- https://www.linkedin.com/in/furkan-kaymaz/
 
 <!---
 furkannkaymazz/furkannkaymazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
